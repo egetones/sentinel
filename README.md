@@ -10,7 +10,7 @@
   <strong>A lightweight File Integrity Monitor (FIM) to detect unauthorized file changes.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/simple-fim/issues) · [Request Feature](https://github.com/your-username/simple-fim/issues)
+[Report Bug](https://github.com/egetones/sentinel/issues) · [Request Feature](https://github.com/egetones/sentinel/issues)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Description
 
-**Sentinel** is a cybersecurity defense tool written in Python. It functions as a File Integrity Monitor (FIM), a critical component in any Security Operations Center (SOC).
+**sentinel** is a cybersecurity defense tool written in Python. It functions as a File Integrity Monitor (FIM), a critical component in any Security Operations Center (SOC).
 
 It calculates the cryptographic hash (SHA-256) of files in a target directory to create a "digital fingerprint." By continuously monitoring these files, Sentinel can detect and alert users to **modifications**, **deletions**, or **new file creations** in real-time. This is useful for detecting ransomware activity or unauthorized configuration changes.
 
