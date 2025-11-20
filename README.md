@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sentinel (Simple-FIM)
+# sentinel
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
